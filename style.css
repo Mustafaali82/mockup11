@@ -1,0 +1,70 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+body{
+    background-color: #f2f5f7;
+}
+.logo{
+    width: 150px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.navabr{
+background-color: white;
+position: fixed;
+
+
+}
+.link1{
+    padding-top: 5px;
+    list-style-type: none;
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 20px;
+    color: black;
+}
+a:hover{
+    color: blue;
+}
+.input{
+    margin-left: 370px;
+    padding: 4.5px;
+    border-radius: 35px;
+    border-color: blue;
+}
+.button{
+    margin-left: 57.6px;
+    padding: 7px;
+    border-radius: 35px;
+    background-color: #367dbb;
+    border-color: #367dbb;
+    color: white;
+}
+
+    
+
+.heading{
+    margin-top: 200px;
+    margin-left: 200px;
+    font-size: 40px;
+}
+.boy {
+    background-color: white;
+    width: 500px;
+   height: 250px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 200px;
+  
+}
+.gyth {
+    background-color: white;
+    width: 500px;
+   height: 250px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 200px;
+    
+}
+    
