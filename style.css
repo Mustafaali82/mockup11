@@ -1,70 +1,86 @@
-*{
-    padding:0px;
-    margin: 0px;
+* {
+  padding: 0px;
+  margin: 0px;
 }
-body{
-    background-color: #f2f5f7;
+body {
+  background-color: #f2f5f7;
 }
-.logo{
-    width: 150px;
-    margin-top: 10px;
-    margin-left: 20px;
+.logo {
+  width: 150px;
+  margin-top: 10px;
+  margin-left: 20px;
 }
-.navabr{
-background-color: white;
-position: fixed;
+.navabr {
+  background-color: white;
+  position: fixed;
+  margin-top: -200px;
+}
+.link1 {
+  padding-top: 5px;
+  list-style-type: none;
+  text-decoration: none;
+  margin-left: 20px;
+  font-size: 20px;
+  color: black;
+}
+a:hover {
+  color: blue;
+}
+.input {
+  margin-left: 370px;
+  padding: 4.5px;
+  border-radius: 35px;
+  border-color: blue;
+}
+.button {
+  margin-left: 57.6px;
+  padding: 7px;
+  border-radius: 35px;
+  background-color: #367dbb;
+  border-color: #367dbb;
+  color: white;
+}
 
-
+.heading {
+  margin-top: 200px;
+  margin-left: 200px;
+  font-size: 40px;
 }
-.link1{
-    padding-top: 5px;
-    list-style-type: none;
-    text-decoration: none;
-    margin-left: 20px;
-    font-size: 20px;
-    color: black;
+.section {
+  background-color: white;
+  width: 500px;
+  height: 250px;
+  padding: 20px;
+  margin-top: 20px;
+  margin-left: 200px;
 }
-a:hover{
-    color: blue;
+.footer {
+  background-color: white;
+  width: 500px;
+  height: 250px;
+  padding: 20px;
+  margin-top: 20px;
+  margin-left: 200px;
+  margin-top: -230px;
+  margin-left: 550px;
 }
-.input{
-    margin-left: 370px;
-    padding: 4.5px;
-    border-radius: 35px;
-    border-color: blue;
+.hea-par {
+  margin-top: 20px;
+  font-size: 30px;
 }
-.button{
-    margin-left: 57.6px;
-    padding: 7px;
-    border-radius: 35px;
-    background-color: #367dbb;
-    border-color: #367dbb;
-    color: white;
+.button1 {
+  margin-top: 40px;
+  margin-left: 210px;
+  padding: 10px;
+  background-color: #f2f5f7;
+  border-color: blue;
+  color: blue;
 }
-
-    
-
-.heading{
-    margin-top: 200px;
-    margin-left: 200px;
-    font-size: 40px;
+.para1 {
+  margin-left: 210px;
+  margin-top: 10px;
 }
-.boy {
-    background-color: white;
-    width: 500px;
-   height: 250px;
-    padding: 20px;
-    margin-top: 20px;
-    margin-left: 200px;
-  
+.para2 {
+  margin-left: 210px;
+  margin-top: 50px;
 }
-.gyth {
-    background-color: white;
-    width: 500px;
-   height: 250px;
-    padding: 20px;
-    margin-top: 20px;
-    margin-left: 200px;
-    
-}
-    
